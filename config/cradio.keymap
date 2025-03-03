@@ -29,9 +29,9 @@
         
         layer_2 {
             bindings = <
-                &kp ESC   &kp LC(S)   &kp LC(F)   &kp LC(A)   &kp CAPSLOCK  &kp INS   &kp HOME   &kp PG_UP  &none  &none
+                &kp ESC   &kp G(S)   &kp G(F)   &kp G(A)   &kp CAPSLOCK  &kp INS   &kp HOME   &kp PG_UP  &none  &none
                 &osm LALT  &osm LGUI  &osm LSHIFT   &osm LCTRL &kp DELETE  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT &kp BACKSPACE
-                &kp LC(Z) &kp LC(X) &kp LC(C) &kp LC(V) &kp TAB  &kp MUTE  &kp END   &kp PG_DN &kp MENU  &kp PAUSE_BREAK
+                &kp G(Z) &kp G(X) &kp G(C) &kp G(V) &kp TAB  &kp MUTE  &kp END   &kp PG_DN &kp MENU  &kp PAUSE_BREAK
                 &mo 1  &none  &kp ENTER  &mo 2  
             >;
         };
