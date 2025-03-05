@@ -26,7 +26,7 @@
         
         layer_2 {
             bindings = <
-                &kp ESC   &kp LG(S)   &kp LG(F)   &kp LG(A)   &kp CAPSLOCK  &kp INS   &kp HOME   &kp PG_UP  &bt_profile_0  &bt_clear
+                &kp ESC   &kp LG(S)   &kp LG(F)   &kp LG(A)   &kp CAPSLOCK  &kp INS   &kp HOME   &kp PG_UP  &none  &bt_clear
                 &sk LALT  &sk LGUI  &sk LSHIFT   &sk LCTRL &kp DELETE  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT &kp BACKSPACE
                 &kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)  &kp TAB  &kp C_MUTE  &kp END  &kp PG_DN  &kp K_CMENU  &kp PAUSE_BREAK
                 &mo 1  &none  &kp ENTER  &mo 2  
